@@ -17,17 +17,7 @@ Catherine Edelveis, BellSoft
 
 ---
 
-# whoami
-
-- Developer Advocate at BellSoft
-- Focused on the JVM ecosystem
-- Tech writer
-- CyberJAR YouTube channel co-host
-- Unorthodox by design
-
----
-
-# whoarewe to talk about security?
+# BellSoft Talks Security
 
 - Members of OpenJDK Vulnerability Group
 - Commit fixes and patches upstream
@@ -464,7 +454,7 @@ image: /new-city.jpg
 
 # 🔐 Hardened Images: Your New Security Baseline
 
-## Thank you!
+## Want to know more?
 
 🦋 @cat-edelveis.bsky.social | bell-sw.com
 
