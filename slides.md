@@ -116,26 +116,15 @@ layout: cover
 
 - Knowing martial arts doesn't mean you should go looking for thugs
 
----
 
 ## Stay and defend the old order
 
 - React to security incidents
-- Why should you solve the issues in the code you didn't write?
-
-
----
 
 ## Leave and move to Arcology
 
 - New container image from bottom up
-- Many questions:<br/><br/>
-  - Where to find a reliable base?
-  - How to choose one?
-  - Need to refactor everything?
-  - Will it solve all the problems at once?
 
-<br/>
 
 <v-click>
 
@@ -164,10 +153,6 @@ layout: two-cols-header
   <div class="hb">No package manager, minimalistic base</div>
   <div class="arrow">➡️</div>
   <div class="hb">Minimized attack surface</div>
-
-  <div class="hb">Immutable component set</div>
-  <div class="arrow">➡️</div>
-  <div class="hb">No tampering with container at runtime</div>
 
   <div class="hb">SBOM, digital signature</div>
   <div class="arrow">➡️</div>
@@ -204,7 +189,7 @@ layout: two-cols-header
 
 ---
 layout: image-right
-image: /alpaquita.jpg
+image: "/alpaquita.jpg"
 ---
 
 ## BellSoft's Hardened Images: Based on Alpaquita Linux
@@ -450,13 +435,16 @@ image: /new-city.jpg
 - Shift security left without slowing down deployments
 - Lower operational overhead
 
+
+---
+layout: image-right
+image: "/bhi.png"
 ---
 
 # 🔐 Hardened Images: Your New Security Baseline
 
 ## Want to know more?
 
-🦋 @cat-edelveis.bsky.social | bell-sw.com
 
 ---
 
